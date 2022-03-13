@@ -1,0 +1,1 @@
+simple translate via baidu api
